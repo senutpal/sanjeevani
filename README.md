@@ -5,8 +5,11 @@ A modern, interactive hospital management system for managing hospital operation
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Installation & Local Setup](#installation--local-setup)
+- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
+
 
 ## Features
 - Patient queue management
@@ -32,7 +35,7 @@ A modern, interactive hospital management system for managing hospital operation
 ### Installation & Local Setup
 1. **Clone the repository:**
    ```sh
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/senutpal/sanjeevani.git
    cd sanjeevani
    ```
 2. **Install dependencies:**
