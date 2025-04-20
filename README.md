@@ -33,7 +33,7 @@ A modern, interactive hospital management system for managing hospital operation
 1. **Clone the repository:**
    ```sh
    git clone <YOUR_GIT_URL>
-   cd careflow-hospital-dashboard
+   cd sanjeevani
    ```
 2. **Install dependencies:**
    ```sh
